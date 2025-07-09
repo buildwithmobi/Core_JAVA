@@ -46,9 +46,6 @@ Understand how data is sorted and searched with core logic implementations.
 
 Explore file input/output operations using Java's standard libraries.
 
-**Files:**
-- *(Add your filenames here if needed)*
-
 ---
 
 ## 5. Java Threads (Multithreading)
